@@ -99,7 +99,7 @@ const Footer = () => {
       <div className="flex flex-col md:flex-row justify-between items-center">
         <div className="text-sm">&copy; Your Site Name. All rights reserved.</div>
         <div className="text-sm">
-          Designed by <a href="https://htmlcodex.com" className="hover:underline">HTML Codex</a>
+          Designed by <a href="#" className="hover:underline">Aditya Kasaudhan</a>
         </div>
       </div>
 
